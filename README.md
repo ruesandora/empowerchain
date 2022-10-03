@@ -2,6 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/101149671/193675081-0d205f2c-5425-40b4-80fb-b0920fabc74f.png)
 
+## Discord kanal [linki](https://discord.gg/AN7uEyUb)
 
 ## Sistem gereksinimleri klasik cosmos:
 ```
